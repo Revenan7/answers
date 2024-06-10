@@ -1,0 +1,10 @@
+C:\Users\TheGolden\Desktop\DataGridBD-master\DataGridBD\x64\Debug\DataGridBD.vcxproj.AssemblyReference.cache
+C:\Users\TheGolden\Desktop\DataGridBD-master\DataGridBD\x64\Debug\DataGridBD.MyForm.resources
+C:\Users\TheGolden\Desktop\DataGridBD-master\DataGridBD\x64\Debug\DataGridBD.vcxproj.GenerateResource.cache
+C:\Users\TheGolden\Desktop\DataGridBD-master\DataGridBD\x64\Debug\DataGridBD.Ans3.resources
+C:\Users\TheGolden\Desktop\DataGridBD-master\DataGridBD\x64\Debug\DataGridBD.Ans2.resources
+C:\Users\TheGolden\Desktop\watsonqq\DataGridBD\x64\Debug\DataGridBD.vcxproj.AssemblyReference.cache
+C:\Users\TheGolden\Desktop\watsonqq\DataGridBD\x64\Debug\DataGridBD.Ans2.resources
+C:\Users\TheGolden\Desktop\watsonqq\DataGridBD\x64\Debug\DataGridBD.Ans3.resources
+C:\Users\TheGolden\Desktop\watsonqq\DataGridBD\x64\Debug\DataGridBD.MyForm.resources
+C:\Users\TheGolden\Desktop\watsonqq\DataGridBD\x64\Debug\DataGridBD.vcxproj.GenerateResource.cache
